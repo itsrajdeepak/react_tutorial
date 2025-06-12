@@ -72,7 +72,7 @@ export default function FormHandling() {
           </select>
         </div>
 
-        <button type="submit">Submit</button>
+      <button>deepak</button>
       </form>
     </>
   );
